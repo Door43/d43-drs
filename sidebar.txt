@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[drs:home|Door43 (drs)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-drs|d43-drs repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-drs/archive/master.zip|d43-drs.zip]]
+
+**Recent Changes**
+{{changes>ns = drs}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/drs|Ethnologue data]]
+
